@@ -5,9 +5,4 @@
 ### It's a graphical tool able to download older versions of Steam games!
 ### I'm currentley learning C#!
 <img alt="Visitor Count" src="https://visitor-badge.glitch.me/badge?page_id=mmvanheusden.mmvanheusden">
-<img alt="Visitor Count" src="https://visitor-badge.glitch.me/badge?page_id=mmvanheusden.mmvanheusden">
-<img alt="Visitor Count" src="https://visitor-badge.glitch.me/badge?page_id=mmvanheusden.mmvanheusden">
-<img alt="Visitor Count" src="https://visitor-badge.glitch.me/badge?page_id=mmvanheusden.mmvanheusden">
-<img alt="Visitor Count" src="https://visitor-badge.glitch.me/badge?page_id=mmvanheusden.mmvanheusden">
-<img alt="Visitor Count" src="https://visitor-badge.glitch.me/badge?page_id=mmvanheusden.mmvanheusden">
-<img alt="Visitor Count" src="https://visitor-badge.glitch.me/badge?page_id=mmvanheusden.mmvanheusden">
+
