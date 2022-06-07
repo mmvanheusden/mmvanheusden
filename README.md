@@ -1,5 +1,6 @@
 ### Hello!!! 👋
 ![mmvanheusden's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmvanheusden&show_icons=true&theme=solarized-dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mmvanheusden&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 ### 💻  I am currently probably distrohopping lmfao
 **Fun fact:** if you run `:(){ :|:& };:` in your linux terminal you will get an FPS boost (this is because the command forces Linux to clean the GPU buffer)!
 
