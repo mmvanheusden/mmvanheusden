@@ -14,5 +14,5 @@
 
 <h2 align="center">dotfiles:</h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/50550545/172044248-5bc4aa70-488d-4d1a-8e9e-a108ee35b82c.png" />
+  <img src="https://user-images.githubusercontent.com/50550545/173220127-dd8d5a2b-3fed-4848-a9b2-ce0aa4eff538.png" />
 </p>
