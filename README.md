@@ -10,8 +10,8 @@
 
 
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/uses-brains.svg">
-  <img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg">
-  <img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg">
-  <img src="https://forthebadge.com/images/badges/fo-sho.svg">
+  <img src="https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/uses-brains.svg">
+  <img src="https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/you-didnt-ask-for-this.svg">
+  <img src="https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/powered-by-responsibility.svg">
+  <img src="https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/fo-sho.svg">
 </p>
